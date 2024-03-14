@@ -15,7 +15,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/LeaMourot/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/LeaMourot/ppchem/pull/1/commits/4f903931b91a0cf7980e3c16e8f2193712022ab7 |
 
 **More milestones will be added throughout the course.**
 
