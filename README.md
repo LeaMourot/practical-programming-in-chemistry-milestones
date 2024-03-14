@@ -9,10 +9,10 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/LeaMourot                                                | 
 | 1    | Github Profile Page                         | https://github.com/LeaMourot/LeaMourot.git                                  |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Commit and Push Change from Command Line    | https://github.com/LeaMourot/ppchem/commit/2d00b28deda336eb63271612d435bc15c5b57743                |
+| 1    | Create a New Branch                         | https://github.com/LeaMourot/ppchem/tree/mybranch                           |
+| 1    | Create a conda environment                  | https://github.com/LeaMourot/ppchem/blob/main/env.yml      |
+| 1    | Fork a Repo                                 | https://github.com/LeaMourot/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
